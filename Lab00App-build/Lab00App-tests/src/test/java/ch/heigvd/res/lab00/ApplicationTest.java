@@ -22,6 +22,7 @@ public class ApplicationTest {
   public void thereShouldBeAClassNamedApplication() {
     Application application = new Application();
     assertNotNull(application);
+      System.out.println("Testsss");
   }
   
   @Test
